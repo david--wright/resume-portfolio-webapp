@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name":"David Wright",
+    "occupation":"Devops Engineer",
+    "description":"with a passion for automation",
+    "image":"profilepic.jpg",
+    "bio":"I currently work with the State of Utah to automate infrastructure and encourage others to do likewise. My experience in everything from desktop support to software engineering to system administration has taught me the value of a well documented, automated environment.   ",
+    "contactmessage":"Want to talk? Drop me a message.",
+    "email": "david@davidwright.dev",
+    "telegram":"davidwrightdev",
+    "phone": "‪(385) 424-0095‬",
+    "address":{
+      "street":"",
+      "city":"Greater Salt Lake Area",
+      "state":"Utah",
+      "zip": ""
+    },
+    "website": "https://davidwright.dev",
+    "resumedownload":"/resume",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/davidwrightdev",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/davidwrightdev/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/david--wright",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My unique career path has lead proficiency and expertise in a wide variety of technologies",
+    "certifications":[
+     {
+       "name":"SaltStack Certified Engineer",
+       "issuer":"SaltStack",
+       "date":"September 2018",
+       "description":""
+     }
+    ],
+    "education":[
+      {
+        "school":"Idaho State University",
+        "degree":"Computer Science",
+        "graduated":"2009 - 2014",
+        "description":""
+      },
+      {
+        "school":"Brigham Young University - Idaho",
+        "degree":"Computer Engineering",
+        "graduated":"2002-2006",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"State of Utah",
+        "title":"Technical Support Specialist II",
+        "years":"April 2015 - Present",
+        "description":"Worked with a small team to manage a mix of 400+ Redhat, Cent OS and Windows servers. Converted all machines from manually managed installs to SaltStack management. Wrote needed states and modules in python, yaml and jinja. Developed Salt testing protocol and system used by the entire State of Utah."
+      },
+      {
+        "company":"Quidlum",
+        "title":"Full Stack Developer",
+        "years":"March 2012 - June 2017",
+        "description":"Wrote and maintained application code. Implemented front-end systems using Django templates and Jquery. Developed system-wide web API. Designed and implemented database structure. Setup and maintained Amazon EC2 Linux servers. Designed CI process to streamline developer time."
+      },
+      {
+        "company":"Idaho State University",
+        "title":"Computer Analyst",
+        "years":"February 2014 - April 2015",
+        "description":"Wrote and maintained application code using enterprise APIs. Implemented reports using MySQL and standard web technologies"
+      },
+      {
+        "company":"Idaho State University",
+        "title":"IT Support Technician",
+        "years":"February 2011 - February 2014",
+        "description":"Automated Windows installs reducing install time by a factor of 5. Automated call statistics logging and reports. Designed and developed other solutions as necessary to streamline work processes. Acted as training supervisor for the IT Service Desk."
+      },
+      {
+        "company":"Wright Coding",
+        "title":"Freelance Coder",
+        "years":"February 2010 - February 2014",
+        "description":"Developed and implemented unique solutions for clients in a variety of languages including Python, C#, C++, HTML, and JavaScript."
+      },
+      {
+        "company":"Idaho State University",
+        "title":"IT Student Supervisor",
+        "years":"June 2009 - February 2011",
+        "description":"Provided technical support for the Idaho State University Campus. Supported and trained faculty on the entire Office Suite, Internet Explorer, Firefox, Chrome, Banner, Argos and a myriad of other programs and systems. Performed new computer setup and configuration, including format, operating system and standardized software package Recommended and implemented custom solutions for faculty issues after careful consideration of the needs in each situation. Reviewed and wrote documentation, delegating when necessary. Trained new hires, advising them on current computing standards and trends as well as teaching current policies and procedures. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Saltstack",
+        "level":"75%"
+      },
+      {
+        "name":"Linux Server",
+        "level":"90%"
+      },
+      {
+        "name":"Windows Server",
+        "level":"50%"
+      },
+      {
+        "name":"SaltStack",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Habitica Telegram Bot",
+        "category":"A bot to allow Habitica changes from a Telegram chat",
+        "image":"code_sample.png",
+        "url":""
+      },
+      {
+        "title":"Home Range Tools (HRT) for ArcGIS 10.1 and 10.2",
+        "category":"An ArcGIS plugin for analyzing animal home ranges",
+        "image":"code_sample.png",
+        "url":""
+      }
+
+      
+
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Dave is an excellent problem solver and has a great deal of experience with a wide variety of technologies. He always sees a problem through to the end. These things make him a great asset to the team.",
+        "user":"Donny Ford - Current Team Lead"
+      },
+      {
+        "text":"What can I say? He's my brother.",
+        "user":"Edgar Wright"
+      }
+    ]
+  }
+}
