@@ -78,7 +78,7 @@ class Contact extends Component {
 					   <p className="address">
 						   <span>{phone}</span><br />
                      <span>{email}</span><br />
-                     <span>Telegram: <a href="https://telegram.me/"{telegram}>@{telegram}</a></span>
+                     <span>Telegram: <a href={"https://telegram.me/"+telegram}>@{telegram}</a></span>
 					   </p>
 				   </div>
             </aside>
