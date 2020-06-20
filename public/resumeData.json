@@ -137,6 +137,18 @@
         "category":"An ArcGIS plugin for analyzing animal home ranges",
         "image":"code_sample.png",
         "url":""
+      },
+      {
+        "title":"Quidlum AWS Architecture and CI/CD",
+        "category":"Designed, implemented and maintained Quidlum's high availability architecture with CI/CD pipeline for deploys",
+        "image":"infrastructure.png",
+        "url":""
+      },
+      {
+        "title":"State of Utah Infrastructure Automation",
+        "category":"Converted manually managed infrastructure to Saltstack management. ",
+        "image":"infrastructure.png",
+        "url":""
       }
 
       
