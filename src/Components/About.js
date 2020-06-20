@@ -27,7 +27,7 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
                      <span>{email}</span><br />
-                     <span>Telegram: <a href="https://telegram.me/{telegram}">@{telegram}</a></span><br />
+                     <span>Telegram: <a href="https://t.me/{telegram}">@{telegram}</a></span><br />
 						   <span>{phone}</span><br />
                      
                      
