@@ -36,7 +36,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"My unique career path has lead proficiency and expertise in a wide variety of technologies",
+    "skillmessage":"My unique career path given me proficiency and expertise in a wide variety of technologies",
     "certifications":[
      {
        "name":"SaltStack Certified Engineer",
@@ -100,7 +100,7 @@
     "skills":[
       {
         "name":"Git",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Python",
@@ -119,7 +119,7 @@
         "level":"50%"
       },
       {
-        "name":"SaltStack",
+        "name":"Docker",
         "level":"75%"
       }
     ]
