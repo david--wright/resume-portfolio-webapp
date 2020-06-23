@@ -4,7 +4,7 @@
     "occupation":"Devops Engineer",
     "description":"with a passion for automation",
     "image":"profilepic.jpg",
-    "bio":"I currently work with the State of Utah to automate infrastructure and deployments and encourage others to do likewise. My experience in everything from desktop support to software engineering to system administration has taught me the value of a well documented, automated environment.",
+    "bio":"I currently work with the State of Utah to automate infrastructure and deployments while helping others to do likewise. My experience in everything from desktop support to software engineering to system administration has taught me the value of a well documented, automated environment.",
     "contactmessage":"Want to talk? Drop me a message.",
     "email": "david@davidwright.dev",
     "telegram":"davidwrightdev",
@@ -127,37 +127,37 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Phone statistics automation",
+        "title":"Phone statistics automation - ISU",
         "category":"Integrated a legacy phone system with modern technologies to allow for quick and easy access to call statistics",
         "image":"infrastructure.png",
         "url":""
       },
       {
-        "title":"Desktop deploy automation",
+        "title":"Desktop deploy automation - ISU",
         "category":"Designed and developed automation that reduced desktop deploy times by a factor of 10",
         "image":"infrastructure.png",
         "url":""
       },
       {
-        "title":"Habitica Telegram Bot",
+        "title":"Habitica Telegram Bot - Personal",
         "category":"A bot to allow Habitica changes from a Telegram chat",
         "image":"code_sample.png",
         "url":""
       },
       {
-        "title":"Home Range Tools (HRT) for ArcGIS 10.1 and 10.2",
+        "title":"Home Range Tools (HRT) - Ontario Ministry of Natural Resources and Forestry",
         "category":"An ArcGIS plugin for analyzing animal home ranges",
         "image":"code_sample.png",
         "url":""
       },
       {
-        "title":"Quidlum AWS Architecture and CI/CD",
+        "title":"AWS Architecture and CI/CD - Quidlum",
         "category":"Designed, implemented and maintained Quidlum's high availability architecture with CI/CD pipelines for deploys",
         "image":"infrastructure.png",
         "url":""
       },
       {
-        "title":"State of Utah Infrastructure Automation",
+        "title":"Infrastructure Automation - State of Utah",
         "category":"Converted manually managed infrastructure to Saltstack management. ",
         "image":"infrastructure.png",
         "url":""
