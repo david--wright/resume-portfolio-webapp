@@ -36,7 +36,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"My unique career path given me proficiency and expertise in a wide variety of technologies",
+    "skillmessage":"My unique career path has given me proficiency and expertise in a wide variety of technologies",
     "certifications":[
      {
        "name":"SaltStack Certified Engineer",
@@ -82,7 +82,7 @@
         "company":"Idaho State University",
         "title":"IT Support Technician",
         "years":"February 2011 - February 2014",
-        "description":"Automated Windows installs reducing install time by a factor of 5. Automated call statistics logging and reports. Designed and developed other solutions as necessary to streamline work processes. Acted as training supervisor for the IT Service Desk."
+        "description":"Automated Windows installs reducing install time by a factor of 10. Automated call statistics logging and reports. Designed and developed other solutions as necessary to streamline work processes. Acted as training supervisor for the IT Service Desk."
       },
       {
         "company":"Wright Coding",
