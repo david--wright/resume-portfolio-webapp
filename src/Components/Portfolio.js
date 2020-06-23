@@ -32,7 +32,7 @@ class Portfolio extends Component {
 
             <h1>Ask me about problems I've solved</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+            <div id="portfolio-wrapper" className="bgrid-thirds s-bgrid-halves cf">
                 {projects}
             </div>
           </div>
