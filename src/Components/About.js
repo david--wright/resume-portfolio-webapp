@@ -26,9 +26,9 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-                     <span>{email}</span><br />
+                     <span><a href="mailto:{email}">{email}</a></span><br />
                      <span>Telegram: <a href={"https://telegram.me/"+telegram}>@{telegram}</a></span><br />
-						   <span>{phone}</span><br />
+						   <span><a href="tel:{phone}">{phone}</a></span><br />
                      
                      
 					   </p>
